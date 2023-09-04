@@ -1,6 +1,6 @@
 {
     "name": "Finanças",
-    "short_name": "PWA",
+    "short_name": "Finanças",
     "description": "Gerenciador de finanças",
     "start_url": "./index.html",
     "display": "standalone",
